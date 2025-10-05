@@ -13,12 +13,18 @@
     "@tailwindcss/vite": "^4.1.14",
     "@tanstack/react-query": "^5.90.2",
     "axios": "^1.12.2",
+    "chroma-js": "^3.1.2",
     "cytoscape": "^3.33.1",
+    "graphology": "^0.26.0",
+    "graphology-layout-force": "^0.2.4",
+    "motion": "^12.23.22",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-router-dom": "^7.9.3",
     "recharts": "^3.2.1",
-    "tailwindcss": "^4.1.14"
+    "sigma": "^3.0.2",
+    "tailwindcss": "^4.1.14",
+    "uuid": "^13.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",

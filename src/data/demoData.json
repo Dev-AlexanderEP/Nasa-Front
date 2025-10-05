@@ -1,0 +1,106 @@
+{
+  "query": "Biology",
+  "results": [
+    {
+      "id": 166,
+      "title": "Rad-Bio-App: a discovery environment for biologists to explore spaceflight-related radiation exposures",
+      "score": 0.37087705731391907
+    },
+    {
+      "id": 309,
+      "title": "Astronaut omics and the impact of space on the human body at scale",
+      "score": 0.33652400970458984
+    },
+    {
+      "id": 340,
+      "title": "A New Era for Space Life Science: International Standards for Space Omics Processing",
+      "score": 0.3328512907028198
+    },
+    {
+      "id": 483,
+      "title": "Modeled microgravity alters apoptotic gene expression and caspase activity in the squid-vibrio symbiosis",
+      "score": 0.3299967646598816
+    },
+    {
+      "id": 434,
+      "title": "Environmental cues and symbiont microbe-associated molecular patterns function in concert to drive the daily remodelling of the crypt-cell brush border of the Euprymna scolopes light organ",
+      "score": 0.32838883996009827
+    },
+    {
+      "id": 121,
+      "title": "From Cellular Mechanotransduction to Biologically Inspired Engineering: 2009 Pritzker Award Lecture, BMES Annual Meeting October 10, 2009",
+      "score": 0.3230220377445221
+    },
+    {
+      "id": 284,
+      "title": "Preservation of Multiple Mammalian Tissues to Maximize Science Return from Ground Based and Spaceflight Experiments",
+      "score": 0.3186711370944977
+    },
+    {
+      "id": 39,
+      "title": "Spatiotemporal expression and control of haemoglobin in space",
+      "score": 0.31485655903816223
+    },
+    {
+      "id": 337,
+      "title": "Ehrlichia chaffeensis replication sites in adult Drosophila melanogaster",
+      "score": 0.309040367603302
+    },
+    {
+      "id": 93,
+      "title": "Identification of Critical Host Mitochondrion-Associated Genes during Ehrlichia chaffeensis Infections",
+      "score": 0.3004743456840515
+    },
+    {
+      "id": 92,
+      "title": "The fast and the furious: rapid long-range signaling in plants",
+      "score": 0.29892027378082275
+    },
+    {
+      "id": 541,
+      "title": "Celebrating 30 years of access to NASA Space Life Sciences data",
+      "score": 0.2978731691837311
+    },
+    {
+      "id": 1,
+      "title": "NASA open science data repository: open science for life in space",
+      "score": 0.2960984408855438
+    },
+    {
+      "id": 497,
+      "title": "Asparagine biosynthesis as a mechanism of increased host lethality induced by Serratia marcescens in simulated microgravity environments",
+      "score": 0.29532724618911743
+    },
+    {
+      "id": 424,
+      "title": "Utilizing the KSC Fixation Tube to Conduct Human-Tended Plant Biology Experiments on a Suborbital Spaceflight",
+      "score": 0.2942076027393341
+    },
+    {
+      "id": 109,
+      "title": "Production of reactive oxygen species and involvement of bioprotectants during anhydrobiosis in the tardigrade Paramacrobiotus spatialis",
+      "score": 0.2941511869430542
+    },
+    {
+      "id": 229,
+      "title": "Modeled microgravity alters lipopolysaccharide and outer membrane vesicle production of the beneficial symbiont Vibrio fischeri",
+      "score": 0.29277530312538147
+    },
+    {
+      "id": 9,
+      "title": "Symbiotic organs shaped by distinct modes of genome evolution in cephalopods",
+      "score": 0.2918393611907959
+    },
+    {
+      "id": 377,
+      "title": "Inspiration4 data access through the NASA Open Science Data Repository",
+      "score": 0.2917793095111847
+    },
+    {
+      "id": 316,
+      "title": "Mice in Bion-M 1 Space Mission: Training and Selection",
+      "score": 0.28930047154426575
+    }
+  ],
+  "total_results": 20
+}
